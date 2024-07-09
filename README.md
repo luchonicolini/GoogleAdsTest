@@ -1,3 +1,3 @@
 GoogleAdsTest - ads google example 
 
-<img width="1425" alt="Captura de pantalla 2024-07-09 a la(s) 7 21 56 a  m" src="https://github.com/luchonicolini/GoogleAdsTest/assets/20882895/1bdf70a7-c749-4bf6-9615-4ffe0f3fd013">
+<img width="1414" alt="Captura de pantalla 2024-07-09 a la(s) 7 24 02 a  m" src="https://github.com/luchonicolini/GoogleAdsTest/assets/20882895/fdc7c3d5-c080-47ed-8151-57cf3faac553">
